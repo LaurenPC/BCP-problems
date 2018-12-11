@@ -3,3 +3,5 @@
 // EX: 2000 + 18 - 2 * 1;
 
 2000 + 20 - 2 * 1;
+
+let favoriteActivity = "coding";
